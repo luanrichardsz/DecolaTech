@@ -23,8 +23,7 @@ Beans - Objeto criado e gerenciado por um container atraves do principio da inve
 
 Scopes(Escopos)
 	Singleton
-		Um unico objeto sendo compartilhado por toda a aplicação quando solicitado
-		
+		Um unico objeto sendo compartilhado por toda a aplicação quando solicitado		
 	Protype
 		Criando um nova objeto a cada requisição ao container
 		
